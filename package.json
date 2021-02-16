@@ -4,6 +4,10 @@
 	"description": "Adds \"Copy reference\" to context menu",
 	"license": "MIT",
 	"publisher": "MDOQ",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MDOQ-UK/vscode-extension-php-copy-reference"
+	},
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.53.0"
