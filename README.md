@@ -4,7 +4,7 @@ This option add's the "Copy Reference" item to the editor context menu.
 The refence is copied to the users clipboard.
 
 ## Features
-\!\[Copy Reference\]\(assets/phpcopyreference.gif\)
+\!\[Copy Reference\]\(/assets/phpcopyreference.gif\)
 
 ## Requirements
 
@@ -44,5 +44,5 @@ Please wait a minute or so (untill the index has finished) and try again.
 If the issue still persists please raise an issue.
 
 ## Release Notes
-See [CHANGLOG.md](CHANGELOG.md)
+See [CHANGLOG.md](/CHANGELOG.md)
 
