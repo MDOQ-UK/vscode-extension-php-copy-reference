@@ -1,10 +1,9 @@
-# phpcopyreference README
-
-This option add's the "Copy Reference" item to the editor context menu.
+# PHP Copy Reference
+This extension adds the "Copy Reference" item to the editor context menu.
 The refence is copied to the users clipboard.
 
 ## Features
-\!\[Copy Reference\]\(/assets/phpcopyreference.gif\)
+\!\[Copy Reference\]\(https://github.com/MDOQ-UK/vscode-extension-php-copy-reference/blob/main/assets/phpcopyreference.gif)
 
 ## Requirements
 
