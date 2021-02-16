@@ -1,9 +1,12 @@
 # PHP Copy Reference
+[![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/MDOQ.phpcopyreference.svg)](https://marketplace.visualstudio.com/items?itemName=MDOQ.phpcopyreference)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/MDOQ.phpcopyreference)](https://marketplace.visualstudio.com/items?itemName=MDOQ.phpcopyreference)[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/MDOQ.phpcopyreference.svg)](https://marketplace.visualstudio.com/items?itemName=MDOQ.phpcopyreference#review-details)
+
 This extension adds the "Copy Reference" item to the editor context menu.
 The refence is copied to the users clipboard.
 
 ## Features
-![Copy Reference](/assets/phpcopyreference.gif)
+![Copy Reference](https://github.com/MDOQ-UK/vscode-extension-php-copy-reference/blob/main/assets/phpcopyreference.gif)
 
 ## Requirements
 

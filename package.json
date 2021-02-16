@@ -8,9 +8,14 @@
 		"type": "git",
 		"url": "https://github.com/MDOQ-UK/vscode-extension-php-copy-reference"
 	},
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.53.0"
+	},
+	"icon": "assets/logo.png",
+	"galleryBanner": {
+	  "color": "#6682BA",
+	  "theme": "dark"
 	},
 	"categories": [
 		"Programming Languages"
