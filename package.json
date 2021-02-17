@@ -8,7 +8,7 @@
 		"type": "git",
 		"url": "https://github.com/MDOQ-UK/vscode-extension-php-copy-reference"
 	},
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"engines": {
 		"vscode": "^1.52.0"
 	},

@@ -14,6 +14,11 @@ The format of this file will follow [Keep a Changelog](http://keepachangelog.com
 ### Changed
 - Documentation updates, logos links etc...
 
-## [1.0.2] - 2021-02-16
+## [1.0.2] - 2021-02-17
 ### Changed
 - Lowered vscode engine requirement to `^1.52.0`
+
+## [1.0.3] - 2021-02-17
+### Fixed
+- Broken install badge
+- Broken demo gif
