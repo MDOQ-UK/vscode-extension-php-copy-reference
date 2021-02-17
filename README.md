@@ -47,4 +47,3 @@ If the issue still persists please raise an issue.
 
 ## Release Notes
 See [CHANGLOG.md](/CHANGELOG.md)
-

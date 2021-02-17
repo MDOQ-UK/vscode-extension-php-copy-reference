@@ -13,3 +13,7 @@ The format of this file will follow [Keep a Changelog](http://keepachangelog.com
 ## [1.0.1] - 2021-02-16
 ### Changed
 - Documentation updates, logos links etc...
+
+## [1.0.2] - 2021-02-16
+### Changed
+- Lowered vscode engine requirement to `^1.52.0`
